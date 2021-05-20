@@ -3,10 +3,13 @@ This is an individual project related to COVID-19 and face recognition. There ar
 1. To detect people having their faces masked or not masked
 2. To detect faces having their masks correctly worn or incorrectly worn
 
-Currently learning and experimenting with others' codes.
+Progress:
+- [x] Preprocess the data
+- [x] Train the model
+- [ ] Accept input from users
 
 ## Dataset
-The dataset is obtained from [FFHQ-dataset](https://github.com/NVlabs/ffhq-dataset) and [MaskedFace-Net](https://github.com/cabani/MaskedFace-Net). 
+The [dataset](https://drive.google.com/drive/folders/1RgofnTbxkZneJTXsh1Dswglfl7NZRl0p?usp=sharing) is obtained from [FFHQ-dataset](https://github.com/NVlabs/ffhq-dataset) and [MaskedFace-Net](https://github.com/cabani/MaskedFace-Net). 
 
 ### Licenses
 <b>In the following the licenses of the original [FFHQ-dataset](https://github.com/NVlabs/ffhq-dataset):</b>
