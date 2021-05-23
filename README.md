@@ -6,7 +6,8 @@ This is an individual project related to COVID-19 and face recognition. There ar
 Progress:
 - [x] Preprocess the data
 - [x] Train the model
-- [ ] Accept input from users
+- [x] Accept input from users
+- [ ] Further improvement
 
 ## Dataset
 The [dataset](https://drive.google.com/drive/folders/1RgofnTbxkZneJTXsh1Dswglfl7NZRl0p?usp=sharing) is obtained from [FFHQ-dataset](https://github.com/NVlabs/ffhq-dataset) and [MaskedFace-Net](https://github.com/cabani/MaskedFace-Net). 
