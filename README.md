@@ -7,7 +7,6 @@ Progress:
 - [x] Preprocess the data
 - [x] Train the model
 - [x] Accept input from users
-- [ ] Make improvement
 
 ## Dataset
 The [dataset](https://drive.google.com/drive/folders/1RgofnTbxkZneJTXsh1Dswglfl7NZRl0p?usp=sharing) is obtained from [FFHQ-dataset](https://github.com/NVlabs/ffhq-dataset) and [MaskedFace-Net](https://github.com/cabani/MaskedFace-Net). 
